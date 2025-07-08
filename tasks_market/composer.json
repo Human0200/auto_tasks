@@ -1,0 +1,13 @@
+{
+    "name": "dante/tasks_market",
+    "autoload": {},
+    "authors": [
+        {
+            "name": "danblok",
+            "email": "danytokmakov@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
